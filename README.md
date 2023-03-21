@@ -1,2 +1,2 @@
-# ZetaChain
+# Chương trình testnet có khuyến khích của ZetaChain dành cho Validator đang hoạt động và mở cho đăng ký tham dự...
 https://zetachain.notion.site/Testnet-c-khuy-n-kh-ch-c-a-ZetaChain-cho-nh-ng-Validator-057aa77a8a56418c92e0a1d1549afc0d
